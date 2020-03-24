@@ -4,6 +4,7 @@
 
 body {
   height: 100vh;
+  min-width: 1300px;
 }
 
 header {
@@ -54,6 +55,7 @@ a:hover {
   justify-content: center;
   align-items: center;
   max-width: 100vw;
+  min-width: 1300px;
   height: 84%;
 }
 #google-logo {
